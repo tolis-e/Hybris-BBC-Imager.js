@@ -1,4 +1,6 @@
-# Imager.js [![Build Status](https://secure.travis-ci.org/BBC-News/Imager.js.svg?branch=master)](http://travis-ci.org/BBC-News/Imager.js)
+# Hybris BBC Imager.js [![Build Status](https://secure.travis-ci.org/BBC-News/Imager.js.svg?branch=master)](http://travis-ci.org/BBC-News/Imager.js)
+
+> Hybris Imager.js version which is updated to comply with Hybris Media Containers (Responsive accelerator 5.5). It also supports background image replacements.
 
 > Imager.js is an alternative solution to the issue of how to handle responsive image loading, created by developers at [BBC News](http://responsivenews.co.uk/).
 

@@ -2,6 +2,15 @@
 
 > Hybris Imager.js version which is updated to comply with Hybris Media Containers (Responsive accelerator 5.5). It also supports background image replacements.
 
+```js
+new Imager({
+    selector: '.delayed-image-load', // in case of standard Imager placeholders
+    backgroundImageSelector: '.delayed-background-image-load', // in case of background image replacements
+    className: 'delayed-image-replaced', // class to be applied on the resizable images
+    onResize: true
+});
+```
+
 > Imager.js is an alternative solution to the issue of how to handle responsive image loading, created by developers at [BBC News](http://responsivenews.co.uk/).
 
 
